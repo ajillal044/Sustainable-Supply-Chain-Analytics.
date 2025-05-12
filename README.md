@@ -1,4 +1,4 @@
-# 🌍 Sustainable Supply Chain Analytics
+# Sustainable Trade and Transport: Insights at the Intersection of Supply Chains and Environmental Impact
 
 ## 📊 Project Overview
 
@@ -29,19 +29,19 @@ This Power BI project explores how trade dynamics and transport infrastructure i
 
 ### 📊 Summary Page
 
-!\[Insert Screenshot of Summary Page]
+![Image](https://github.com/user-attachments/assets/e16be9b0-bcf1-4e24-9ec2-cdc6889c783f)
 
-### 📦 Trade Analysis Page
+### 📦 Trade and Sustainability Analysis Page
 
 ![Image](https://github.com/user-attachments/assets/c56c61b2-76f3-40fa-9945-84179f178dea)
 
-### 🚛 Transport Analysis Page
+### 🚛 Transport and Sustainability Analysis Page
 
-!\[Insert Screenshot of Transport Analysis Page]
+![Image](https://github.com/user-attachments/assets/92ca94dd-4450-47da-be11-a3f806a8e0df)
 
-### 🌿 Sustainability Analysis Page
+### 🌿 Trade and Transport Analysis Page
 
-!\[Insert Screenshot of Sustainability Analysis Page]
+![Image](https://github.com/user-attachments/assets/dc276885-9485-4480-a9df-0155323786fd)
 
 ## 🚀 Usage
 
@@ -49,6 +49,4 @@ This Power BI project explores how trade dynamics and transport infrastructure i
 2. 💻 Open the PBIX file in Power BI Desktop.
 3. 🧭 Navigate through the pages to explore the visualizations and insights.
 
-## 📄 License
 
-This project is released under the MIT License. You are free to use, modify, and distribute it under the terms of the license.
