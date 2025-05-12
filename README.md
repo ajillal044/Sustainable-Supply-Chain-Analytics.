@@ -33,7 +33,7 @@ This Power BI project explores how trade dynamics and transport infrastructure i
 
 ### 📦 Trade Analysis Page
 
-!\[Insert Screenshot of Trade Analysis Page]
+![Image](https://github.com/user-attachments/assets/c56c61b2-76f3-40fa-9945-84179f178dea)
 
 ### 🚛 Transport Analysis Page
 
